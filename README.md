@@ -3,6 +3,11 @@
 ## Description
 The Automation-Project is a sophisticated Java-based automated testing framework focused on web application testing. Designed to streamline and enhance the testing process, it features a modular structure with components for application logic, page objects, and utility functions, promoting maintainability and scalability. This framework addresses the complexities of automated web testing, enabling testers and developers to achieve more reliable and efficient workflows.
 
+## Video Demonstration
+![image](https://github.com/matantoled/Automation-Project/assets/75612523/abe97384-4f27-43f2-af2d-669f0aae6452)
+
+The video below demonstrates the Automation-Project in action. It shows the program executing a series of automated tasks on a web application: registering a new user account, signing in, selecting a smartphone, adding it to the shopping cart, completing the purchase, and filling in the necessary shipping details to have the product delivered to a specified address. [Video Demonstration](https://www.youtube.com/watch?v=T4ObcdOL7qQ)
+
 ### Features
 - **Application Logic**: Manages driver interactions, API calls, and user authentication with classes like `API_Helper1`, `ApplicationManager1`, etc.
 - **Page Object Model (POM)**: Organizes web page elements and utilities in a clear structure, simplifying the management of new page elements.
